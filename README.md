@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajkmcnamara
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Cyber Security
-- 💞️ I’m looking to collaborate on challenges
+- 💞️ I’m looking to collaborate on coding challenges
 - 📫 Send me an email
 
 <!---
